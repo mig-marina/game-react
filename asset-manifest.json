@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.255a0fa5.chunk.css",
+    "main.js": "./static/js/main.fd81a3c4.chunk.js",
+    "main.js.map": "./static/js/main.fd81a3c4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0f1f3436.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0f1f3436.js.map",
+    "static/js/2.117c4f7f.chunk.js": "./static/js/2.117c4f7f.chunk.js",
+    "static/js/2.117c4f7f.chunk.js.map": "./static/js/2.117c4f7f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.255a0fa5.chunk.css.map": "./static/css/main.255a0fa5.chunk.css.map",
+    "static/js/2.117c4f7f.chunk.js.LICENSE.txt": "./static/js/2.117c4f7f.chunk.js.LICENSE.txt",
+    "static/media/cards-cover.css": "./static/media/unicorn-9.7be7f447.jpg",
+    "static/media/index.css": "./static/media/websymbolsligaregular.8c700cbe.ttf",
+    "static/media/template-dark.css": "./static/media/modal-statistics-dark.513fedeb.jpg",
+    "static/media/template-blue.css": "./static/media/modal-statistics-blue.b80cfdce.jpg",
+    "static/media/music.328af292.mp3": "./static/media/music.328af292.mp3",
+    "static/media/rs_school_js.db2798bd.svg": "./static/media/rs_school_js.db2798bd.svg",
+    "static/media/sound.f01ac587.mp3": "./static/media/sound.f01ac587.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1f3436.js",
+    "static/js/2.117c4f7f.chunk.js",
+    "static/css/main.255a0fa5.chunk.css",
+    "static/js/main.fd81a3c4.chunk.js"
+  ]
+}
